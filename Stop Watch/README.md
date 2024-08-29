@@ -4,7 +4,7 @@ This is a simple stopwatch application built using HTML, CSS, and JavaScript. Th
 Features :: 
 Start: Begins the stopwatch, incrementing the time every millisecond.
 Stop: Pauses the stopwatch, allowing the user to resume from where they left off.
-Reset: Resets the stopwatch to 00:00:00:00, clearing the timer.
+Reset: Resets the stopwatch to 00:00:00:00, clearing the timer.<br>
 File Structure :: 
 HTML: Defines the structure of the stopwatch.
 CSS: Styles the stopwatch, providing a modern and clean user interface.
