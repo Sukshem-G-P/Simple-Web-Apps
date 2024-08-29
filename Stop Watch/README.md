@@ -1,4 +1,4 @@
-Overview :
+Overview :<br>
 This is a simple stopwatch application built using HTML, CSS, and JavaScript. The stopwatch can track hours, minutes, seconds, and milliseconds, and it includes basic functionality to start, stop, and reset the timer.<br><br>
 Features :
 Start: Begins the stopwatch, incrementing the time every millisecond.<br>
