@@ -2,9 +2,9 @@ Overview: <br>
 This project is a basic calculator built using HTML, CSS, and JavaScript. The calculator can perform basic arithmetic operations like addition, subtraction, multiplication, and division. It also includes functionalities for clearing the display (AC), deleting the last input (DEL), and using percentage in calculations.
 <br><br>
 Features:<br>
-Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
-Percentage Calculation: The % button calculates the percentage of the number.
-Clear Display (AC): Resets the calculator display to empty.
+Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.<br>
+Percentage Calculation: The % button calculates the percentage of the number.<br>
+Clear Display (AC): Resets the calculator display to empty.<br>
 Delete Last Input (DEL): Removes the last character entered in the display.<br><br>
 Files Structure: <br>
 index.html: The main HTML file that contains the structure of the calculator.<br>
